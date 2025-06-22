@@ -50,7 +50,3 @@ Here are a few of my sample or real-world projects:
 - 📧 Email: echaraitgabriel@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/gabriel-echarait](https://linkedin.com/in/gabriel-echarait)  
 - 🌍 GitHub: [github.com/G-rait](https://github.com/G-rait)
-
----
-
-> “Solving problems one issue at a time.”
